@@ -235,3 +235,6 @@ This repository serves as the official landing page for 4Videosoft MTS Converter
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of 4Videosoft MTS Converter today!**
+
+---
+**Last updated:** 2026-09-08 06:58:05 UTC
